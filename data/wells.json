@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "Almaty-Oasis-1",
+    "region": "Almaty",
+    "coordinates": { "lat": 43.2389, "lng": 76.8897 },
+    "depth_meters": 150.0,
+    "water_quality": {
+      "ph": 7.2,
+      "mineralization_mg_l": 350.0,
+      "hardness": "soft",
+      "nitrates_mg_l": 12.5,
+      "overall_status": "good"
+    },
+    "depth_history": {
+      "2020": 120.0,
+      "2021": 120.2,
+      "2022": 120.5,
+      "2023": 120.8,
+      "2024": 121.2,
+      "2025": 121.5
+    },
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Astana-Central",
+    "region": "Astana",
+    "coordinates": { "lat": 51.1694, "lng": 71.4491 },
+    "depth_meters": 80.0,
+    "water_quality": {
+      "ph": 7.5,
+      "mineralization_mg_l": 450.0,
+      "hardness": "medium",
+      "nitrates_mg_l": 20.0,
+      "overall_status": "good"
+    },
+    "depth_history": {
+      "2020": 65.0,
+      "2021": 65.1,
+      "2022": 65.0,
+      "2023": 65.2,
+      "2024": 65.1,
+      "2025": 65.0
+    },
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Shymkent-Agri",
+    "region": "Shymkent",
+    "coordinates": { "lat": 42.3417, "lng": 69.5901 },
+    "depth_meters": 45.0,
+    "water_quality": {
+      "ph": 8.1,
+      "mineralization_mg_l": 800.0,
+      "hardness": "hard",
+      "nitrates_mg_l": 75.0,
+      "overall_status": "poor"
+    },
+    "depth_history": {
+      "2020": 30.5,
+      "2021": 32.0,
+      "2022": 35.5,
+      "2023": 38.0,
+      "2024": 41.2,
+      "2025": 43.8
+    },
+    "status": "critical"
+  },
+  {
+    "id": 4,
+    "name": "Karaganda-Industrial",
+    "region": "Karaganda",
+    "coordinates": { "lat": 49.8019, "lng": 73.1021 },
+    "depth_meters": 250.0,
+    "water_quality": {
+      "ph": 6.8,
+      "mineralization_mg_l": 1200.0,
+      "hardness": "hard",
+      "nitrates_mg_l": 45.0,
+      "overall_status": "moderate"
+    },
+    "depth_history": {
+      "2020": 200.0,
+      "2021": 202.5,
+      "2022": 206.0,
+      "2023": 210.5,
+      "2024": 213.0,
+      "2025": 215.5
+    },
+    "status": "warning"
+  },
+  {
+    "id": 5,
+    "name": "Aktobe-West",
+    "region": "Aktobe",
+    "coordinates": { "lat": 50.2839, "lng": 57.1670 },
+    "depth_meters": 120.0,
+    "water_quality": {
+      "ph": 7.3,
+      "mineralization_mg_l": 410.0,
+      "hardness": "medium",
+      "nitrates_mg_l": 15.0,
+      "overall_status": "good"
+    },
+    "depth_history": {
+      "2020": 90.0,
+      "2021": 90.2,
+      "2022": 90.1,
+      "2023": 90.5,
+      "2024": 90.4,
+      "2025": 90.6
+    },
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Atyrau-Coastal",
+    "region": "Atyrau",
+    "coordinates": { "lat": 47.0945, "lng": 51.9238 },
+    "depth_meters": 60.0,
+    "water_quality": {
+      "ph": 7.8,
+      "mineralization_mg_l": 1500.0,
+      "hardness": "hard",
+      "nitrates_mg_l": 10.0,
+      "overall_status": "moderate"
+    },
+    "depth_history": {
+      "2020": 40.0,
+      "2021": 40.5,
+      "2022": 41.2,
+      "2023": 40.8,
+      "2024": 42.0,
+      "2025": 42.5
+    },
+    "status": "warning"
+  },
+  {
+    "id": 7,
+    "name": "Semey-East",
+    "region": "Semey",
+    "coordinates": { "lat": 50.4111, "lng": 80.2275 },
+    "depth_meters": 110.0,
+    "water_quality": {
+      "ph": 7.1,
+      "mineralization_mg_l": 320.0,
+      "hardness": "soft",
+      "nitrates_mg_l": 8.5,
+      "overall_status": "good"
+    },
+    "depth_history": {
+      "2020": 85.0,
+      "2021": 85.0,
+      "2022": 85.2,
+      "2023": 85.1,
+      "2024": 85.3,
+      "2025": 85.2
+    },
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "name": "Taraz-South",
+    "region": "Taraz",
+    "coordinates": { "lat": 42.9000, "lng": 71.3667 },
+    "depth_meters": 95.0,
+    "water_quality": {
+      "ph": 8.0,
+      "mineralization_mg_l": 950.0,
+      "hardness": "hard",
+      "nitrates_mg_l": 55.0,
+      "overall_status": "poor"
+    },
+    "depth_history": {
+      "2020": 70.0,
+      "2021": 73.5,
+      "2022": 78.0,
+      "2023": 82.5,
+      "2024": 87.0,
+      "2025": 92.0
+    },
+    "status": "critical"
+  },
+  {
+    "id": 9,
+    "name": "Kostanay-North",
+    "region": "Kostanay",
+    "coordinates": { "lat": 53.2198, "lng": 63.6283 },
+    "depth_meters": 75.0,
+    "water_quality": {
+      "ph": 7.4,
+      "mineralization_mg_l": 600.0,
+      "hardness": "medium",
+      "nitrates_mg_l": 30.0,
+      "overall_status": "poor"
+    },
+    "depth_history": {
+      "2020": 50.0,
+      "2021": 55.0,
+      "2022": 62.0,
+      "2023": 68.5,
+      "2024": 72.0,
+      "2025": 74.5
+    },
+    "status": "inactive"
+  },
+  {
+    "id": 10,
+    "name": "Turkestan-Deep",
+    "region": "Turkestan",
+    "coordinates": { "lat": 43.3000, "lng": 68.2707 },
+    "depth_meters": 300.0,
+    "water_quality": {
+      "ph": 7.0,
+      "mineralization_mg_l": 400.0,
+      "hardness": "soft",
+      "nitrates_mg_l": 5.0,
+      "overall_status": "good"
+    },
+    "depth_history": {
+      "2020": 280.0,
+      "2021": 280.0,
+      "2022": 280.1,
+      "2023": 280.0,
+      "2024": 280.2,
+      "2025": 280.1
+    },
+    "status": "active"
+  }
+]
